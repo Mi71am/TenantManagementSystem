@@ -1,7 +1,5 @@
-package com.example.tenantmanagementsystem
+package com.example.tenantmanagementsystem.data.model
 
-
-// Serializable is built into Java/Kotlin: no plugin needed
 import java.io.Serializable
 
 // ": Serializable" means "a Tenant can be packed up and sent
